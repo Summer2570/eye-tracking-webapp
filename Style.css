@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f0f4f8;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  video {
+    border: 2px solid #555;
+    border-radius: 12px;
+    margin-top: 20px;
+    width: 640px;
+    height: 480px;
+  }
+  
+  #status {
+    margin-top: 15px;
+    font-size: 1.2em;
+    color: green;
+    font-weight: bold;
+  }
+  
